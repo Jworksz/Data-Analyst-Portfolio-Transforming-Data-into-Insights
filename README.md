@@ -66,7 +66,7 @@ Take a look at some of the projects I’ve worked on, and feel free to reach out
 ### Business Intelligence
 - [Microsoft Power BI Analyst Professional Certificate](https://1drv.ms/b/c/0ebab957c97f9505/ESjjTnx6H3dMvWY3wr1uf4kBhaJOvcvv90jKGQ37eWsoKA?e=4hHPtP)
 - [Data Management & Data Analytics: Master Data Anlaytics & Power BI](https://1drv.ms/b/c/0ebab957c97f9505/ETre5QsWo3NFk0uIxK5c_PgBBPNfgdICghh6wKM-jWIAYw?e=KsfXp5)
-- [Power BI Masterclass](https://1drv.ms/b/c/0ebab957c97f9505/EcCw4wGOH71KiYiwnMiCPRIB4jYVBRIGIZo1gkMaHko9rQ?e=L4NBXT)
+- [Microsoft Power BI Masterclass](https://1drv.ms/b/c/0ebab957c97f9505/EcCw4wGOH71KiYiwnMiCPRIB4jYVBRIGIZo1gkMaHko9rQ?e=L4NBXT)
 
 ### Relational Database Management System(RDBMS)
 - [MySQL Database Workshop](https://1drv.ms/b/c/0ebab957c97f9505/EbOa9gWP5HxLt8oKLab9upUB_JR32daurPX4xO9ZUWFgpQ?e=ucm45v)
